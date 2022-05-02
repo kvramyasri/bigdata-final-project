@@ -38,3 +38,5 @@ run python app.py command in cmd<br>
 
 **Dataset Link :** https://drive.google.com/file/d/1Mwi4unMMwjIk0d8-lpQmupm-xWhREmiu/view?usp=sharing
 
+**Demo Link :** https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=5f1838ea-d01a-4db7-b781-ae890050935f
+
