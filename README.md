@@ -10,6 +10,7 @@ Sai Dattu Punati <br>
 
 **Descripotion** <br>
 Malaria is an infectious disease caused by a blood parasite. According to WHO statistics there were 262 million malaria cases detected in 2000. Detecting this disease from the given cell image can help the health care system in the world. In this application, we are using a  CNN architecture that gives the same classification accuracy as the VGG-16 and Resnet-50 models for thin blood smear RBC slide images for detection of malaria while decreasing the computational run time by an order of magnitude.
+
 **Objectives** <br>
 In this project, for the malaria images cell dataset we are building a deep neural network that can detect malaria. <br>
 In the real-time world, this application can be able to save human lives by detecting malaria from a cell image. <br>
