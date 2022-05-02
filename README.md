@@ -36,3 +36,5 @@ Install python, tensorflow and flask<br>
 Run MalariaIdentification in googlecolab and get model.h5 and save it in models folder<br>
 run python app.py command in cmd<br>
 
+**Dataset Link : **https://drive.google.com/file/d/1Mwi4unMMwjIk0d8-lpQmupm-xWhREmiu/view?usp=sharing
+
